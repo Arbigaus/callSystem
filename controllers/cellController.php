@@ -10,22 +10,44 @@ class cellController extends Controller{
     $data['user'] = Users::getLoggedUser($_SESSION['id']);
     $data['cell'] = Cell::ReadAll();
 
-    // $row = 1;
-    // if (($handle = fopen(BASE."/assets/files/linhas.csv", "r")) !== FALSE) {
-    //     while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
-    //         $teste[$row] = $data;
-    //         $row++;
-    //     }
-    //     fclose($handle);
-    //
-    //     $count = count($teste);
-    //
-    //     for ($i =1; $i <= $count; $i++){
-    //       $form['user_name'] = $teste[$i][1];
-    //       $form['user_cell'] = $teste[$i][0];
-    //       // Cell::Create($form);
-    //     }
-    // }
+    $row = 1;
+    if (($handle = fopen(BASE."/assets/files/claro.csv", "r")) !== FALSE) {
+        while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
+            $teste[$row] = $data;
+            $row++;
+        }
+        fclose($handle);
+
+        $count = count($teste);
+
+        for ($i =1; $i < $count; $i++){
+          $form['col_number'] = $teste[$i][0];
+          $form['col_section'] = $teste[$i][1];
+          $form['col_date'] = $teste[$i][2];
+          $form['col_hour'] = $teste[$i][3];
+          $form['col_source'] = $teste[$i][4];
+          $form['col_number_dest'] = $teste[$i][5];
+          $form['col_time'] = $teste[$i][6];
+          $form['col_price'] = $teste[$i][7];
+          $form['col_price2'] = $teste[$i][8];
+          $form['col_info'] = $teste[$i][9];
+          $form['col_info2'] = $teste[$i][10];
+          $form['col_info3'] = $teste[$i][11];
+          $form['col_sub_section'] = $teste[$i][12];
+          $form['col_type_tax'] = $teste[$i][13];
+          $form['col_description'] = $teste[$i][14];
+          $form['col_position'] = $teste[$i][15];
+          $form['col_name_source'] = $teste[$i][16];
+          $form['col_name_target'] = $teste[$i][17];
+          $form['col_code_source'] = $teste[$i][18];
+          $form['col_code_target'] = $teste[$i][19];
+          Fatura::Create($form);
+        }
+
+        // echo "<pre>";
+        // print_r($teste);
+        // echo "</pre>";die;
+    }
 
     $this->loadTemplate('admin/cell', $data);
   }

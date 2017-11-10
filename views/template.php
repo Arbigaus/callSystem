@@ -35,6 +35,8 @@
   <link rel="stylesheet" href="<?php echo BASE; ?>/assets/bower_components/bootstrap-daterangepicker/daterangepicker.css">
   <!-- bootstrap wysihtml5 - text editor -->
   <link rel="stylesheet" href="<?php echo BASE; ?>/assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+	<!-- DataTables -->
+  <link rel="stylesheet" href="<?php echo BASE; ?>/assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -690,6 +692,9 @@
 <script src="<?php echo BASE; ?>/assets/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
 <!-- FastClick -->
 <script src="<?php echo BASE; ?>/assets/bower_components/fastclick/lib/fastclick.js"></script>
+<!-- DataTables -->
+<script src="<?php echo BASE; ?>/assets/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+<script src="<?php echo BASE; ?>/assets/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
 <!-- AdminLTE App -->
 <script src="<?php echo BASE; ?>/assets/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
@@ -697,6 +702,7 @@
 <!-- AdminLTE for demo purposes -->
 <script src="<?php echo BASE; ?>/assets/dist/js/demo.js"></script>
 <script src="<?php echo BASE; ?>/assets/js/ajax.js"></script>
+<script src="<?php echo BASE; ?>/assets/js/script.js"></script>
 <script type="text/javascript">
   var BASE = '<?php echo BASE; ?>'+'/'; // TODO: Enviando a variável BASE para o Ajax.
 </script>

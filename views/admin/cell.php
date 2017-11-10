@@ -21,7 +21,8 @@
          <div class="box-header">
            <h3 class="box-title">Lista de Celulares</h3>
          </div>
-         <table id="cell_list" class="table table-bordered table-hover">
+         <div class="box-body">
+         <table id="cell_list" class="table table-bordered table-hover datatable">
            <thead>
            <tr>
              <th>Nome</th>
@@ -37,6 +38,7 @@
          <?php endforeach; ?>
          </tbody>
          </table>
+         </div>
        </div>
        </div>
      </div>
