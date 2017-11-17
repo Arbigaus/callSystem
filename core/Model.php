@@ -59,6 +59,21 @@ abstract class Model {
 		}
 	}
 
+	public static function FullCreate($Fields){
+		try {
+			$stmt = self::DB()->prepare($Fields);
+			$stmt->execute();
+
+			if($stmt->rowCount() == 1):
+				self::$Result = self::DB()->lastInsertId();
+				return self::$Result;
+			endif;
+
+		} catch (PDOException $e) {
+			die($e->getMessage());
+		}
+	}
+
 	public static function ReadAll(){
 		try {
 			$tableName = static::$Table;

@@ -11,7 +11,7 @@ class cellController extends Controller{
     $data['cell'] = Cell::ReadAll();
 
     $file = BASE."/assets/files/claro.csv";
-    Fatura::UpdateFatura($file);
+    // Fatura::UpdateFatura($file);
 
 
     $this->loadTemplate('admin/cell', $data);
