@@ -1,0 +1,409 @@
+11 99151-9577;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;12,98;12,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99220-1612;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;12,98;12,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99151-9577;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;2,59;2,59;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99220-1612;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;2,59;2,59;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99220-1612;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;9,09;9,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99151-9577;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99151-9577;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;9,09;9,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99220-1612;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+11 99151-9577;Int. Nacional;29/09/2017;16:31:51;São Paulo - Sao Jose Dos Pinhais;4132998588;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Int. Regional;29/09/2017;19:00:44;São Paulo - Tatui;1533052000;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Tatui;00011;11000
+11 99151-9577;Int. Regional;29/09/2017;19:01:51;São Paulo - Tatui;1533052000;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Tatui;00011;11000
+11 99151-9577;Int. Regional;29/09/2017;20:09:53;São Paulo - Tatui;1533052000;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Tatui;00011;11000
+11 99151-9577;Internet (MB);01/10/2017;01:01:20;;;19,235351;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);01/10/2017;09:47:20;;;1,324218;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;01/10/2017;19:16:46;São Paulo - São Paulo (11);11963094219;00:01:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);02/10/2017;01:08:58;;;39,541015;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;02/10/2017;09:09:11;São Paulo - São Paulo (11);11992201612;00:00:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Int. Nacional;02/10/2017;09:17:23;São Paulo - Sao Jose Dos Pinhais;4132998578;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Internet (MB);02/10/2017;09:31:02;;;,508789;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;02/10/2017;09:31:55;;11992300502;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Claro-Claro;02/10/2017;09:35:14;São Paulo - São Paulo (11);11992201612;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Claro-Claro;02/10/2017;09:40:50;São Paulo - São Paulo (11);11992201612;00:00:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Int. Nacional;02/10/2017;09:49:25;São Paulo - Sao Jose Dos Pinhais;4132998578;00:03:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Internet (MB);03/10/2017;00:46:34;;;27,973632;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);03/10/2017;09:08:03;;;,649414;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;03/10/2017;09:27:10;;11992300502;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Claro-Fixo;03/10/2017;11:47:26;São Paulo - Sao Paulo;1138266832;00:10:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Internet (MB);04/10/2017;01:20:05;;;79,625976;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);04/10/2017;05:53:52;;;,976562;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;04/10/2017;13:31:11;Paraná - Sao Paulo;1131672326;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;11000
+11 99151-9577;Int. Nacional;04/10/2017;17:22:57;Paraná - São Paulo (11);11963094219;00:15:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Internet (MB);05/10/2017;01:49:58;;;49,870117;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);05/10/2017;07:32:10;;;,893554;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;05/10/2017;11:18:10;Paraná - São Paulo (11);11963094219;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Torpedos;05/10/2017;11:58:56;;11992201612;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Int. Nacional;05/10/2017;12:04:04;Paraná - São Paulo (11);11992201612;00:02:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Int. Nacional;05/10/2017;14:04:00;Paraná - São Paulo (11);11992201612;00:04:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Int. Nacional;05/10/2017;16:00:15;Paraná - Sao Paulo;1140205790;00:19:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;115
+11 99151-9577;Int. Nacional;05/10/2017;16:29:37;Paraná - São Paulo (11);11975310841;00:04:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;10000
+11 99151-9577;Claro-Outras Op.;05/10/2017;17:05:01;Paraná - Paraná (41);41999330909;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+11 99151-9577;Internet (MB);06/10/2017;00:03:39;;;4,162109;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);06/10/2017;09:01:43;;;,085937;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;06/10/2017;10:54:55;São Paulo - Sao Jose Dos Pinhais;4132997203;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Fixo;06/10/2017;12:56:18;São Paulo - Sao Paulo;1138266832;00:13:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Claro-Fixo;06/10/2017;15:43:15;São Paulo - Sao Paulo;1140043600;00:04:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99151-9577;Claro-Fixo;06/10/2017;15:54:44;São Paulo - Sao Paulo;1140043600;00:03:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99151-9577;Internet (MB);07/10/2017;00:05:04;;;134,411132;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);07/10/2017;10:21:13;;;,445312;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;07/10/2017;11:58:34;São Paulo - São Paulo (11);11963094219;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);08/10/2017;01:07:22;;;48,05371;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);08/10/2017;09:39:40;;;,545898;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Fixo;08/10/2017;12:35:59;São Paulo - Sao Paulo;1138266832;00:00:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Claro-Fixo;08/10/2017;12:38:42;São Paulo - Sao Paulo;1136648313;00:01:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99151-9577;Claro-Fixo;08/10/2017;12:40:43;São Paulo - Sao Paulo;1138266832;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Internet (MB);09/10/2017;01:33:33;;;5,763671;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);09/10/2017;11:00:27;;;,02832;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;09/10/2017;12:20:48;;11992201612;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Int. Nacional;09/10/2017;13:40:18;São Paulo - Sao Jose Dos Pinhais;4132997203;00:10:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Int. Nacional;09/10/2017;14:00:56;São Paulo - Sao Jose Dos Pinhais;4132997203;00:02:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Fixo;09/10/2017;14:19:31;São Paulo - Sao Paulo;1137576139;00:04:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Int. Nacional;09/10/2017;14:37:49;São Paulo - Sao Jose Dos Pinhais;4132998588;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Claro;09/10/2017;14:41:37;São Paulo - São Paulo (11);11992201612;00:04:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Int. Nacional;09/10/2017;15:18:19;São Paulo - Sao Jose Dos Pinhais;4132998578;00:02:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Claro;09/10/2017;19:46:40;São Paulo - São Paulo (11);11992201612;00:00:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Claro-Claro;09/10/2017;19:53:06;São Paulo - São Paulo (11);11992201612;00:00:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Claro-Fixo;09/10/2017;20:07:38;São Paulo - Sao Paulo;1138266832;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Internet (MB);10/10/2017;00:02:35;;;44,024414;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);10/10/2017;09:26:42;;;,795898;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Fixo;10/10/2017;10:21:42;São Paulo - Sao Paulo;1131672326;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Int. Nacional;10/10/2017;10:44:07;São Paulo - Sao Jose Dos Pinhais;4132998595;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Torpedos;10/10/2017;11:18:09;;11992201612;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Torpedos;10/10/2017;11:18:35;;11992201612;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Claro-Claro;10/10/2017;15:52:00;São Paulo - São Paulo (11);11963094219;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);10/10/2017;18:40:55;;;,15039;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);11/10/2017;00:07:54;;;6,5625;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);11/10/2017;08:46:53;;;,135742;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Outras Op.;11/10/2017;12:45:16;São Paulo - São Paulo (11);11974499528;00:01:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99151-9577;Internet (MB);12/10/2017;00:04:31;;;144,33789;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);12/10/2017;09:50:12;;;1,182617;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);13/10/2017;00:10:31;;;14,517578;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);13/10/2017;09:43:18;;;,09375;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);13/10/2017;18:51:13;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);14/10/2017;00:01:10;;;3,441406;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);14/10/2017;00:01:17;;;,064453;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;14/10/2017;18:34:07;São Paulo - São Paulo (11);11963099329;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);14/10/2017;21:05:32;;;46,426757;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);14/10/2017;21:25:37;;;,291015;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);15/10/2017;01:30:47;;;18,097656;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);15/10/2017;11:08:03;;;,196289;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Fixo;15/10/2017;21:47:47;São Paulo - Sao Paulo;1138266832;00:03:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Internet (MB);16/10/2017;01:49:57;;;15,876953;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;16/10/2017;09:09:32;São Paulo - São Paulo (11);11992201612;00:03:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);16/10/2017;09:16:23;;;3,925781;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Secretária Claro;16/10/2017;12:59:02;Paraná - Secretária Claro;*100;00:00:30;0,00;0;0;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00041;
+11 99151-9577;Int. Nacional;16/10/2017;12:59:43;Paraná - São Paulo (11);11992656720;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Internet (MB);17/10/2017;00:50:06;;;25,21289;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);17/10/2017;08:21:39;;;,746093;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;17/10/2017;10:39:20;Paraná - Sao Paulo;1137576105;00:08:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;11000
+11 99151-9577;Int. Nacional;17/10/2017;11:26:00;Paraná - Sao Paulo;1137576105;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;11000
+11 99151-9577;Secretária Claro;17/10/2017;13:02:52;Paraná - Secretária Claro;*100;00:00:48;0,00;0;0;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00041;
+11 99151-9577;Claro-Outras Op.;17/10/2017;19:01:35;Santa Catarina - Santa Catarina (47);47996506060;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04500
+11 99151-9577;Int. Nacional;17/10/2017;20:50:57;Santa Catarina - São Paulo (11);11963094219;00:14:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;00011
+11 99151-9577;Int. Nacional;17/10/2017;22:04:17;Santa Catarina - Sao Paulo;1131672326;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;11000
+11 99151-9577;Int. Nacional;17/10/2017;22:07:35;Santa Catarina - Sao Paulo;1131672326;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;11000
+11 99151-9577;Internet (MB);18/10/2017;00:48:27;;;5,55664;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);18/10/2017;07:10:29;;;,571289;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;18/10/2017;13:28:39;Santa Catarina - São Paulo (11);11972572576;00:04:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;01000
+11 99151-9577;Int. Nacional;18/10/2017;22:25:32;Santa Catarina - São Paulo (11);11963094219;00:02:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;00011
+11 99151-9577;Internet (MB);19/10/2017;00:06:49;;;7,600585;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);19/10/2017;00:31:23;;;,375;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);19/10/2017;06:31:22;;;58,158203;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);19/10/2017;07:23:16;;;,350585;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;19/10/2017;10:42:57;;11992300502;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Internet (MB);20/10/2017;01:27:41;;;57,736328;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);20/10/2017;09:24:32;;;,250976;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;20/10/2017;10:10:37;São Paulo - Sao Jose Dos Pinhais;4132998588;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Claro;20/10/2017;12:37:45;São Paulo - São Paulo (11);11992201612;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);20/10/2017;12:39:37;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Int. Nacional;20/10/2017;12:40:38;São Paulo - Sao Jose Dos Pinhais;4132998578;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Fixo;20/10/2017;14:18:25;São Paulo - Sao Paulo;1138266832;00:03:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99151-9577;Internet (MB);21/10/2017;00:22:39;;;5,765625;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);21/10/2017;13:49:23;;;,692382;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Outras Op.;21/10/2017;20:57:29;São Paulo - São Paulo (19);19981665533;00:01:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (19);00019;41100
+11 99151-9577;Internet (MB);22/10/2017;01:51:36;;;1,20996;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;22/10/2017;12:46:18;São Paulo - São Paulo (11);11976548775;00:03:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);22/10/2017;17:44:00;;;,167968;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);23/10/2017;01:08:36;;;3,032226;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);23/10/2017;09:54:57;;;,067382;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;23/10/2017;10:42:42;São Paulo - São Paulo (11);11992187846;00:02:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Claro-Outras Op.;23/10/2017;15:12:07;São Paulo - São Paulo (11);11972572576;00:03:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99151-9577;Int. Nacional;23/10/2017;16:05:49;São Paulo - Sao Jose Dos Pinhais;4132997206;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99151-9577;Claro-Claro;23/10/2017;18:16:38;São Paulo - São Paulo (11);11992201612;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);24/10/2017;00:04:25;;;52,576171;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);24/10/2017;09:47:00;;;,341796;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);25/10/2017;00:39:20;;;18,335937;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);25/10/2017;09:11:26;;;,761718;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;25/10/2017;09:55:59;;41988952079;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00011;44000
+11 99151-9577;Int. Nacional;25/10/2017;15:11:03;Paraná - São Paulo (11);11992201612;00:04:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Int. Nacional;25/10/2017;15:31:55;Paraná - São Paulo (11);11992201612;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Int. Nacional;25/10/2017;16:45:59;Paraná - São Paulo (11);11963094219;00:03:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Internet (MB);26/10/2017;01:49:49;;;14,721679;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);26/10/2017;07:57:42;;;1,582031;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Torpedos;26/10/2017;16:02:31;;11971682315;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Internet (MB);27/10/2017;01:07:22;;;10,799804;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);27/10/2017;08:59:14;;;,274414;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Outras Op.;27/10/2017;14:27:40;Paraná - Paraná (41);41999747823;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+11 99151-9577;Int. Nacional;27/10/2017;16:25:03;Paraná - São Paulo (11);11963094219;00:05:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99151-9577;Internet (MB);28/10/2017;00:38:25;;;16,457031;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);28/10/2017;07:31:45;;;,373046;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);29/10/2017;00:38:32;;;8,085937;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);29/10/2017;13:04:08;;;3,210937;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;29/10/2017;13:50:09;São Paulo - São Paulo (11);11963094219;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Internet (MB);30/10/2017;00:38:43;;;25,461914;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);30/10/2017;09:40:20;;;,984375;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Claro;30/10/2017;10:28:04;São Paulo - São Paulo (11);11992300502;00:03:06;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Claro-Claro;30/10/2017;10:31:20;São Paulo - São Paulo (11);11992201612;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Torpedos;30/10/2017;11:44:37;;11992201612;1;0,10;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00011;00011
+11 99151-9577;Claro-Claro;30/10/2017;14:36:23;São Paulo - São Paulo (11);11992201612;00:16:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99151-9577;Secretária Claro;30/10/2017;18:23:20;São Paulo - Secretária Claro;*100;00:00:36;0,00;0;0;;;;Ligações para números especiais;;;;São Paulo;Secretária Claro;00011;
+11 99151-9577;Internet (MB);31/10/2017;00:37:39;;;182,392578;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Internet (MB);31/10/2017;05:45:14;;;,862304;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99151-9577;Claro-Outras Op.;31/10/2017;12:09:09;Paraná - Paraná (41);41999791909;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+11 99220-1612;Int. Nacional;29/09/2017;15:54:56;São Paulo - Santa Catarina (49);49988150094;00:05:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (49);00011;46000
+11 99220-1612;Internet (MB);01/10/2017;01:13:31;;;,755859;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);01/10/2017;09:55:04;;;,013671;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);02/10/2017;01:02:15;;;41,568359;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);02/10/2017;08:55:33;;;4,146484;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;02/10/2017;11:16:17;São Paulo - Sao Jose Dos Pinhais;4132998578;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Fixo;02/10/2017;11:18:37;São Paulo - Osasco;1136849441;00:02:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Osasco;00011;11000
+11 99220-1612;Claro-Outras Op.;02/10/2017;19:33:50;São Paulo - São Paulo (11);11972142222;00:06:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Claro-Fixo;02/10/2017;21:05:44;São Paulo - Sao Paulo;1140043535;00:08:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Claro-Fixo;02/10/2017;22:14:39;São Paulo - Sao Paulo;1140043535;00:28:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Internet (MB);03/10/2017;00:45:44;;;19,117187;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);03/10/2017;07:40:36;;;1,457031;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;03/10/2017;08:05:21;São Paulo - São Paulo (11);11964240111;00:04:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Claro;03/10/2017;08:10:05;São Paulo - São Paulo (11);11991519577;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Claro;03/10/2017;08:28:36;São Paulo - São Paulo (11);11991519577;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;03/10/2017;11:41:42;São Paulo - São Paulo (11);11998992026;00:13:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Int. Nacional;03/10/2017;11:57:19;São Paulo - Sao Jose Dos Pinhais;4132998578;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Claro;03/10/2017;12:19:56;São Paulo - São Paulo (11);11991519577;00:05:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;03/10/2017;12:25:29;São Paulo - São Paulo (11);11975310841;00:11:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Claro-Outras Op.;03/10/2017;12:54:12;São Paulo - São Paulo (11);11964240111;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Int. Nacional;03/10/2017;12:57:49;São Paulo - Paraná (41);41988587198;00:06:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;40000
+11 99220-1612;Int. Nacional;03/10/2017;14:28:04;São Paulo - Rio Negrinho;4736462255;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Negrinho;00011;47000
+11 99220-1612;Claro-Outras Op.;03/10/2017;14:41:49;São Paulo - São Paulo (11);11999374988;00:07:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Claro-Claro;03/10/2017;15:48:24;São Paulo - São Paulo (11);11991519577;00:01:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;03/10/2017;15:49:54;São Paulo - Sao Jose Dos Pinhais;4132998578;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Claro;03/10/2017;16:50:27;São Paulo - São Paulo (11);11991519577;00:00:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;03/10/2017;17:08:24;São Paulo - Sao Jose Dos Pinhais;4132998578;00:19:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Claro;03/10/2017;18:54:40;São Paulo - São Paulo (11);11991519577;00:01:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Claro;03/10/2017;18:58:36;São Paulo - São Paulo (11);11991519577;00:01:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Internet (MB);04/10/2017;00:45:29;;;66,137695;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);04/10/2017;07:32:57;;;32,879882;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Regional;04/10/2017;17:20:55;Santa Catarina - Sao Jose Dos Pinhais;4132998578;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Jose Dos Pinhais;00049;041
+11 99220-1612;Int. Regional;04/10/2017;17:36:50;Santa Catarina - Santa Catarina (48);48988567800;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Santa Catarina (48);00049;45000
+11 99220-1612;Claro-Outras Op.;04/10/2017;17:39:13;Santa Catarina - Santa Catarina (49);49999334648;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Int. Nacional;04/10/2017;17:43:23;Santa Catarina - São Paulo (11);11972142222;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00049;10000
+11 99220-1612;Int. Regional;04/10/2017;17:57:16;Santa Catarina - Paraná (41);41999747823;00:02:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Paraná (41);00049;40000
+11 99220-1612;Int. Nacional;04/10/2017;19:12:21;Santa Catarina - São Paulo (11);11991519577;00:11:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00049;00011
+11 99220-1612;Claro-Outras Op.;04/10/2017;19:58:11;Santa Catarina - Santa Catarina (49);49991805153;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;45000
+11 99220-1612;Internet (MB);04/10/2017;20:35:21;;;,05371;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);05/10/2017;00:57:58;;;36,514648;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);05/10/2017;04:42:42;;;91,310546;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;05/10/2017;11:31:35;Santa Catarina - Santa Catarina (49);49998171053;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Int. Regional;05/10/2017;11:59:25;Santa Catarina - Sao Jose Dos Pinhais;4132998590;00:04:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Jose Dos Pinhais;00049;041
+11 99220-1612;Int. Regional;05/10/2017;13:33:55;Santa Catarina - Paraná (41);41999747823;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Paraná (41);00049;40000
+11 99220-1612;Int. Regional;05/10/2017;13:46:06;Santa Catarina - Paraná (41);41999747823;00:04:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Paraná (41);00049;40000
+11 99220-1612;Claro-Fixo;05/10/2017;14:21:49;Santa Catarina - Lages;4932260057;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;47000
+11 99220-1612;Claro-Fixo;05/10/2017;15:47:41;Santa Catarina - Lages;4940043535;00:29:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;24700
+11 99220-1612;Internet (MB);05/10/2017;17:41:29;;;9,988281;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;05/10/2017;18:36:22;Santa Catarina - São Paulo (11);11991519577;00:09:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00049;00011
+11 99220-1612;Int. Nacional;05/10/2017;18:48:55;Santa Catarina - São Paulo (11);11964240111;00:03:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00049;41100
+11 99220-1612;Claro-Outras Op.;05/10/2017;19:28:07;Santa Catarina - Santa Catarina (49);49999830026;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Int. Regional;05/10/2017;19:48:47;Santa Catarina - Santa Catarina (48);48988567800;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Santa Catarina (48);00049;45000
+11 99220-1612;Internet (MB);06/10/2017;00:39:49;;;11,14746;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);06/10/2017;01:45:17;;;53,394531;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);06/10/2017;12:05:28;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;06/10/2017;12:18:10;Santa Catarina - Santa Catarina (49);49999334648;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Claro-Outras Op.;06/10/2017;12:19:05;Santa Catarina - Santa Catarina (49);49988150094;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Claro-Outras Op.;06/10/2017;12:19:46;Santa Catarina - Santa Catarina (49);49999830026;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+11 99220-1612;Int. Regional;06/10/2017;13:02:26;Santa Catarina - Santa Catarina (48);48988567800;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Santa Catarina (48);00049;45000
+11 99220-1612;Claro-Fixo;06/10/2017;14:39:46;Santa Catarina - Lages;4940043535;00:21:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;24700
+11 99220-1612;Int. Nacional;06/10/2017;15:02:42;Santa Catarina - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00049;41100
+11 99220-1612;Claro-Outras Op.;06/10/2017;19:35:10;São Paulo - São Paulo (11);11964240111;00:01:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;06/10/2017;19:36:49;São Paulo - São Paulo (11);11998992026;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Internet (MB);07/10/2017;10:19:29;;;1,796875;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);07/10/2017;16:23:09;;;,049804;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Fixo;07/10/2017;19:14:21;São Paulo - Sao Paulo;1140043535;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Internet (MB);08/10/2017;01:22:59;;;3,667968;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;08/10/2017;07:38:32;São Paulo - Paraná (41);41999850900;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;04000
+11 99220-1612;Internet (MB);08/10/2017;10:03:47;;;1,065429;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;08/10/2017;11:12:20;Paraná - São Paulo (11);11964240111;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;41100
+11 99220-1612;Internet (MB);09/10/2017;00:00:55;;;1,117187;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);09/10/2017;01:43:19;;;11,267578;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;09/10/2017;12:50:13;Paraná - São Paulo (11);11964240111;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;41100
+11 99220-1612;Int. Nacional;09/10/2017;12:53:34;Paraná - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;41100
+11 99220-1612;Int. Nacional;09/10/2017;12:54:28;Paraná - São Paulo (11);11991519577;00:21:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99220-1612;Torpedos;09/10/2017;13:43:41;;47992864040;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00011;54700
+11 99220-1612;Torpedos;09/10/2017;19:10:38;;47992864040;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00011;54700
+11 99220-1612;Int. Regional;09/10/2017;19:55:47;Paraná - Santa Catarina (47);47996900808;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (47);00041;46000
+11 99220-1612;Internet (MB);10/10/2017;00:00:18;;;3,723632;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);10/10/2017;06:37:04;;;,295898;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Claro;10/10/2017;14:19:05;Santa Catarina - Santa Catarina (47);47988446443;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;00047
+11 99220-1612;Int. Nacional;10/10/2017;15:03:00;Santa Catarina - São Paulo (11);11991519577;00:08:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;00011
+11 99220-1612;Int. Nacional;10/10/2017;17:50:09;Paraná - São Paulo (11);11991519577;00:14:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99220-1612;Int. Regional;10/10/2017;18:07:27;Paraná - Santa Catarina (47);47999844460;00:02:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (47);00041;04500
+11 99220-1612;Int. Regional;10/10/2017;18:10:16;Paraná - Santa Catarina (47);47999844460;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (47);00041;04500
+11 99220-1612;Int. Regional;10/10/2017;18:11:24;Paraná - Santa Catarina (47);47999844460;00:10:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (47);00041;04500
+11 99220-1612;Int. Nacional;10/10/2017;18:22:04;Paraná - São Paulo (11);11964240111;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;41100
+11 99220-1612;Int. Regional;10/10/2017;18:24:32;Paraná - Santa Catarina (47);47999844460;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (47);00041;04500
+11 99220-1612;Int. Nacional;10/10/2017;19:17:45;Paraná - São Paulo (11);11964240111;00:04:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;41100
+11 99220-1612;Internet (MB);11/10/2017;01:50:41;;;19,474609;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);11/10/2017;06:52:17;;;20,267578;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;11/10/2017;17:13:58;Santa Catarina - São Paulo (11);11998992026;00:09:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;10000
+11 99220-1612;Secretária Claro;11/10/2017;21:30:35;Paraná - Secretária Claro;*100;00:00:48;0,00;0;0;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00041;
+11 99220-1612;Internet (MB);12/10/2017;00:35:11;;;3,310546;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);12/10/2017;06:57:45;;;2,21289;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Regional;12/10/2017;09:30:41;Paraná - Santa Catarina (48);48988567800;00:05:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (48);00041;45000
+11 99220-1612;Internet (MB);13/10/2017;00:41:04;;;13,493164;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);13/10/2017;06:23:15;;;,727539;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Fixo;13/10/2017;09:23:06;Paraná - Curitiba;4132234868;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+11 99220-1612;Claro-Outras Op.;13/10/2017;11:00:45;Paraná - Paraná (41);41999850900;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+11 99220-1612;Claro-Outras Op.;13/10/2017;11:21:19;Paraná - Paraná (41);41999850900;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+11 99220-1612;Claro-Outras Op.;13/10/2017;11:48:16;Paraná - Paraná (41);41988952079;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04400
+11 99220-1612;Int. Nacional;13/10/2017;12:01:24;Paraná - São Paulo (11);11991519577;00:24:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99220-1612;Claro-Outras Op.;13/10/2017;15:52:44;Paraná - Paraná (41);41988952079;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+11 99220-1612;Claro-Outras Op.;13/10/2017;16:59:15;Paraná - Paraná (41);41988952079;00:02:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+11 99220-1612;Internet (MB);14/10/2017;00:43:34;;;2,160156;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);14/10/2017;08:38:24;;;1,045898;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Fixo;14/10/2017;12:22:26;São Paulo - Sao Paulo;1130522799;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Outras Op.;14/10/2017;13:53:28;São Paulo - São Paulo (11);11981537545;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Internet (MB);14/10/2017;20:24:22;;;,198242;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);15/10/2017;01:27:20;;;4,048828;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);15/10/2017;12:03:39;;;,39746;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);16/10/2017;01:23:36;;;10,377929;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);16/10/2017;07:50:22;;;,501953;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Fixo;16/10/2017;08:59:27;São Paulo - Sao Paulo;1155757051;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Fixo;16/10/2017;14:07:02;São Paulo - Sao Paulo;1133715523;00:13:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Claro;16/10/2017;14:21:01;São Paulo - São Paulo (11);11991519577;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Internet (MB);17/10/2017;00:21:07;;;374,895507;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);17/10/2017;06:31:30;;;2,211914;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;17/10/2017;11:00:05;Paraná - São Paulo (11);11991519577;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00041;00011
+11 99220-1612;Int. Regional;17/10/2017;11:01:09;Paraná - Itapoa;4734438506;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Itapoa;00041;47000
+11 99220-1612;Internet (MB);18/10/2017;00:04:15;;;4,704101;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);18/10/2017;08:42:00;;;2,216796;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Regional;18/10/2017;16:40:22;Santa Catarina - Curitiba;4121067900;00:04:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Curitiba;00047;24100
+11 99220-1612;Int. Nacional;18/10/2017;22:35:45;Santa Catarina - São Paulo (11);11964240111;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;São Paulo (11);00047;41100
+11 99220-1612;Internet (MB);19/10/2017;01:14:09;;;1,435546;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);19/10/2017;04:33:33;;;2,759765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);19/10/2017;08:15:18;;;142,260742;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);19/10/2017;08:15:47;;;2,236328;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;19/10/2017;12:27:11;Santa Catarina - Sao Paulo;1121066897;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;21200
+11 99220-1612;Claro-Fixo;19/10/2017;12:36:49;Santa Catarina - Joinville;4740043535;00:06:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Joinville;00047;24700
+11 99220-1612;Int. Nacional;19/10/2017;12:45:10;Santa Catarina - Sao Paulo;1131019851;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;11000
+11 99220-1612;Claro-Claro;19/10/2017;15:34:47;Santa Catarina - Santa Catarina (47);47988446443;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;00047
+11 99220-1612;Claro-Fixo;19/10/2017;15:35:48;Santa Catarina - Rio Negrinho;4736462255;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Rio Negrinho;00047;47000
+11 99220-1612;Claro-Fixo;19/10/2017;16:24:35;Santa Catarina - Rio Negrinho;4736462255;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Rio Negrinho;00047;47000
+11 99220-1612;Int. Regional;19/10/2017;16:31:50;Santa Catarina - Lages;4932260057;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Lages;00047;47000
+11 99220-1612;Int. Regional;19/10/2017;16:37:17;Santa Catarina - Lages;4932260057;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Lages;00047;47000
+11 99220-1612;Int. Nacional;19/10/2017;18:07:42;Santa Catarina - Rio de Janeiro (21);21986933493;00:04:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Rio de Janeiro (21);00047;02000
+11 99220-1612;Int. Nacional;19/10/2017;21:41:14;São Paulo - Curitiba;4130197787;00:05:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Internet (MB);20/10/2017;03:27:19;;;106,415039;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);20/10/2017;07:33:16;;;19,659179;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Torpedos;20/10/2017;07:59:01;;11983831140;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00011;01000
+11 99220-1612;Claro-Claro;20/10/2017;09:36:45;São Paulo - São Paulo (11);11991519577;00:01:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;20/10/2017;10:34:00;São Paulo - Santa Catarina (47);47992864040;00:10:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (47);00011;00547
+11 99220-1612;Int. Nacional;20/10/2017;10:44:58;São Paulo - Curitiba;4133429778;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;041
+11 99220-1612;Int. Nacional;20/10/2017;10:48:13;São Paulo - Curitiba;4130197787;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Claro-Outras Op.;20/10/2017;10:52:49;São Paulo - São Paulo (11);11972142222;00:01:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99220-1612;Claro-Fixo;20/10/2017;11:05:02;São Paulo - Sao Paulo;1140043535;00:13:06;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Claro-Claro;20/10/2017;13:13:50;São Paulo - São Paulo (11);11991519577;00:01:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Fixo;20/10/2017;14:54:35;São Paulo - Sao Paulo;1140043535;00:09:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Claro-Fixo;20/10/2017;15:18:28;São Paulo - Sao Paulo;1148831031;00:01:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Fixo;20/10/2017;15:23:47;São Paulo - Sao Paulo;1131011129;00:01:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Fixo;20/10/2017;15:33:58;São Paulo - Sao Paulo;1137021133;00:03:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Claro;20/10/2017;15:54:21;São Paulo - São Paulo (11);11989799666;00:02:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;20/10/2017;16:34:30;São Paulo - São Paulo (11);11976069528;00:01:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00823
+11 99220-1612;Internet (MB);21/10/2017;00:54:10;;;19,501953;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);21/10/2017;08:22:11;;;7,899414;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;21/10/2017;09:24:25;São Paulo - São Paulo (11);11976069528;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00823
+11 99220-1612;Claro-Outras Op.;21/10/2017;10:13:30;São Paulo - São Paulo (11);11976069528;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00823
+11 99220-1612;Internet (MB);22/10/2017;00:34:34;;;4,714843;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);22/10/2017;00:59:36;;;,441406;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Claro;22/10/2017;16:48:34;São Paulo - São Paulo (11);11991519577;00:03:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;22/10/2017;16:52:18;São Paulo - São Paulo (11);11972142222;00:02:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Internet (MB);23/10/2017;01:52:17;;;24,690429;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);23/10/2017;07:30:39;;;3;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Claro;23/10/2017;12:19:30;São Paulo - São Paulo (11);11991519577;00:05:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;23/10/2017;14:13:47;São Paulo - Sao Jose Dos Pinhais;4132998578;00:06:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Claro;23/10/2017;18:58:16;São Paulo - São Paulo (11);11991519577;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;23/10/2017;20:05:05;São Paulo - São Paulo (11);11998992026;00:06:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99220-1612;Secretária Claro;23/10/2017;20:12:46;São Paulo - Secretária Claro;*100;00:00:30;0,00;0;0;;;;Ligações para números especiais;;;;São Paulo;Secretária Claro;00011;
+11 99220-1612;Internet (MB);24/10/2017;00:32:06;;;73,402343;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);24/10/2017;06:11:48;;;2,081054;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;24/10/2017;10:22:35;São Paulo - São Paulo (11);11964240111;00:00:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Fixo;24/10/2017;14:56:01;São Paulo - Sao Paulo;1131681133;00:03:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Fixo;24/10/2017;15:15:27;São Paulo - Sao Paulo;1131681133;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Claro-Outras Op.;24/10/2017;15:16:05;São Paulo - São Paulo (11);11964240111;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Claro;24/10/2017;16:07:10;São Paulo - São Paulo (11);11991519577;00:17:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Claro;24/10/2017;16:37:36;São Paulo - São Paulo (11);11991519577;00:01:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;24/10/2017;16:40:01;São Paulo - Santa Catarina (47);47988362096;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (47);00011;00047
+11 99220-1612;Int. Nacional;24/10/2017;16:44:17;São Paulo - Paraná (41);41999850900;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;40000
+11 99220-1612;Claro-Claro;24/10/2017;17:02:35;São Paulo - São Paulo (11);11991519577;00:13:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Outras Op.;24/10/2017;17:19:23;São Paulo - São Paulo (11);11999374988;00:01:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Int. Nacional;24/10/2017;19:07:29;São Paulo - Paraná (41);41999850900;00:24:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;40000
+11 99220-1612;Internet (MB);25/10/2017;07:33:46;;;46,970703;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Claro;25/10/2017;09:51:32;São Paulo - São Paulo (11);11991519577;00:03:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Internet (MB);25/10/2017;09:54:59;;;7,988281;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Secretária Claro;25/10/2017;10:10:48;São Paulo - Secretária Claro;*100;00:00:42;0,00;0;0;;;;Ligações para números especiais;;;;São Paulo;Secretária Claro;00011;
+11 99220-1612;Int. Nacional;25/10/2017;10:22:37;São Paulo - Sao Jose Dos Pinhais;4132998581;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Claro;25/10/2017;14:13:40;São Paulo - São Paulo (11);11991519577;00:17:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Fixo;25/10/2017;14:47:52;São Paulo - Sao Paulo;1134659666;00:02:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;
+11 99220-1612;Claro-Outras Op.;25/10/2017;15:18:56;São Paulo - São Paulo (11);11998992026;00:06:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;10000
+11 99220-1612;Claro-Fixo;25/10/2017;16:18:45;São Paulo - Sao Paulo;1140024099;00:09:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;115
+11 99220-1612;Claro-Claro;25/10/2017;16:55:31;São Paulo - São Paulo (11);11991519577;00:01:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Fixo;25/10/2017;18:08:46;São Paulo - Sao Paulo;1140024099;00:10:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;115
+11 99220-1612;Claro-Fixo;25/10/2017;18:22:57;São Paulo - Sao Paulo;1133376786;00:09:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;11000
+11 99220-1612;Internet (MB);26/10/2017;00:10:41;;;66,489257;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);26/10/2017;08:26:58;;;14,608398;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;26/10/2017;09:01:22;São Paulo - Curitiba;4132502590;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;041
+11 99220-1612;Int. Nacional;26/10/2017;09:03:06;São Paulo - Curitiba;4132502590;00:35:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;041
+11 99220-1612;Claro-Outras Op.;26/10/2017;09:38:38;São Paulo - São Paulo (11);11964240111;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Int. Nacional;26/10/2017;09:40:50;São Paulo - Lages;4932260057;00:04:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Lages;00011;47000
+11 99220-1612;Int. Nacional;26/10/2017;09:46:10;São Paulo - Curitiba;4130197787;00:06:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Int. Nacional;26/10/2017;09:53:09;São Paulo - Sao Jose Dos Pinhais;4132998578;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Sao Jose Dos Pinhais;00011;041
+11 99220-1612;Claro-Fixo;26/10/2017;11:47:22;São Paulo - Sao Paulo;1130037727;00:06:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Claro-Fixo;26/10/2017;12:29:16;São Paulo - Sao Paulo;1127888239;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+11 99220-1612;Claro-Outras Op.;26/10/2017;12:30:37;São Paulo - São Paulo (11);11964240111;00:01:00;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;26/10/2017;12:45:55;São Paulo - São Paulo (11);11964240111;00:00:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;26/10/2017;12:53:49;São Paulo - São Paulo (11);11964240111;00:00:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Int. Nacional;26/10/2017;16:00:27;São Paulo - Itapoa;4734438503;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Itapoa;00011;47000
+11 99220-1612;Int. Nacional;26/10/2017;16:25:24;São Paulo - Itapoa;4734438503;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Itapoa;00011;47000
+11 99220-1612;Int. Nacional;26/10/2017;18:40:24;São Paulo - Curitiba;4130197787;00:13:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Claro-Claro;26/10/2017;18:55:06;São Paulo - São Paulo (11);11991519577;00:05:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Int. Nacional;26/10/2017;19:08:28;São Paulo - Curitiba;4130197787;00:02:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Internet (MB);27/10/2017;00:09:28;;;42,060546;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);27/10/2017;00:09:35;;;33,661132;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;27/10/2017;15:37:10;São Paulo - São Paulo (11);11981537545;00:00:54;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;27/10/2017;16:28:01;São Paulo - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;27/10/2017;16:55:37;São Paulo - São Paulo (11);11964240111;00:00:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Int. Nacional;27/10/2017;16:57:04;São Paulo - Rio Negrinho;4736462282;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Negrinho;00011;47000
+11 99220-1612;Torpedos;27/10/2017;17:35:16;;11983831456;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00011;10000
+11 99220-1612;Claro-Outras Op.;27/10/2017;17:36:59;São Paulo - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;27/10/2017;17:47:06;São Paulo - São Paulo (11);11964240111;00:01:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;27/10/2017;18:08:40;São Paulo - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Outras Op.;27/10/2017;18:19:07;São Paulo - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Internet (MB);28/10/2017;01:06:41;;;2,615234;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);28/10/2017;06:50:53;;;31,384765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);29/10/2017;00:33:37;;;2,186523;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);29/10/2017;02:20:24;;;2,575195;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);30/10/2017;00:07:11;;;23,736328;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);30/10/2017;00:43:04;;;44,509765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Int. Nacional;30/10/2017;08:22:48;São Paulo - Paraná (41);41999850900;00:07:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;40000
+11 99220-1612;Claro-Outras Op.;30/10/2017;08:30:58;São Paulo - São Paulo (11);11961911843;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99220-1612;Int. Nacional;30/10/2017;11:44:52;São Paulo - Curitiba;4130197787;00:04:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Curitiba;00011;00941
+11 99220-1612;Claro-Outras Op.;30/10/2017;16:15:01;São Paulo - São Paulo (11);11995922093;00:12:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99220-1612;Claro-Outras Op.;30/10/2017;17:58:56;São Paulo - São Paulo (11);11964240111;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Claro;30/10/2017;19:29:55;São Paulo - São Paulo (11);11991519577;00:02:18;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Internet (MB);31/10/2017;01:48:41;;;39,077148;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);31/10/2017;07:27:30;;;10,246093;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Internet (MB);31/10/2017;10:03:15;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00011;0
+11 99220-1612;Claro-Outras Op.;31/10/2017;10:43:17;São Paulo - São Paulo (11);11999374988;00:03:24;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;01000
+11 99220-1612;Claro-Outras Op.;31/10/2017;18:21:25;São Paulo - São Paulo (11);11964240111;00:00:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+11 99220-1612;Claro-Fixo;31/10/2017;18:27:20;São Paulo - Sao Paulo;1140205790;00:01:42;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;115
+11 99220-1612;Claro-Claro;31/10/2017;18:37:10;São Paulo - São Paulo (11);11991519577;00:00:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Fixo;31/10/2017;18:37:48;São Paulo - Sao Paulo;1140205790;00:25:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;115
+11 99220-1612;Claro-Fixo;01/11/2017;09:02:51;São Paulo - Sao Paulo;1140205790;00:47:06;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;115
+11 99220-1612;Claro-Claro;01/11/2017;09:50:09;São Paulo - São Paulo (11);11991519577;00:21:06;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+11 99220-1612;Claro-Fixo;01/11/2017;10:35:02;São Paulo - Sao Paulo;1140043535;00:17:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200

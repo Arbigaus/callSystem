@@ -10,7 +10,7 @@ class cellController extends Controller{
     $data['user'] = Users::getLoggedUser($_SESSION['id']);
     $data['cell'] = Cell::ReadAll();
 
-    $file = BASE."/assets/files/claro.csv";
+    $file = BASE."/assets/files/claro.txt";
     // Fatura::UpdateFatura($file);
 
 
