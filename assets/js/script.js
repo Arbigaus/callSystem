@@ -5,4 +5,5 @@ $(function () {
   $('.datepicker').datepicker({
       autoclose: true
   });
+  CKEDITOR.replace('editor1');
 });

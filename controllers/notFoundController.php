@@ -7,7 +7,7 @@ class notFoundController extends Controller {
 	public function index(){
 		$dados = array();
 
-		$this->loadView('notfound', $dados);
+		$this->loadView('default/notfound', $dados);
 
 	}
 }

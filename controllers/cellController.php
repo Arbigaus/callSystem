@@ -5,25 +5,13 @@ class cellController extends Controller{
   }
 
   public function index(){
-    $data = array();
 
-    $data['user'] = Users::getLoggedUser($_SESSION['id']);
-    $data['cell'] = Cell::ReadAll();
-
-    $file = BASE."/assets/files/claro.txt";
-    // Fatura::UpdateFatura($file);
-
-
-    $this->loadTemplate('admin/cell', $data);
+    $this->loadTemplate('admin/cell', self::getData());
   }
 
   public function csv(){
-    $data = array();
-    $data['user'] = Users::getLoggedUser($_SESSION['id']);
 
-
-
-    $this->loadTemplate('admin/sendcsv', $data);
+    $this->loadTemplate('admin/sendcsv', self::getData());
   }
 
   public function sendcsv(){

@@ -1,8 +1,21 @@
 <?php
 class Controller {
+	private static $data = array();
 
 	public function __construct(){
+		if(isset($_SESSION['id']) || !empty($_SESSION['id'])){
+			self::setData(Users::getLoggedUser($_SESSION['id']),'user');
+		}
+		self::setData(Template::getMenu(),'menu');
+	}
 
+  // TODO: Elemento para setar e buscar a string Data.
+	public static function getData(){
+		return self::$data;
+	}
+
+	public static function setData($info, $key){
+		self::$data[$key] = $info;
 	}
 
 	public function loadview($viewName, $viewData = array()){
@@ -13,14 +26,13 @@ class Controller {
 	public function loadTemplate($viewName, $viewData = array()){
 
 		// $count_client = Clients::CountClients();
-		include 'views/template.php';
+		include 'views/default/template.php';
 	}
 
 	public function loadViewInTemplate($viewName, $viewData = array()){
 		extract($viewData);
 		include 'views/'.$viewName.'.php';
 	}
-
 
 		// TODO: Funções para retornos ao Ajax.
 

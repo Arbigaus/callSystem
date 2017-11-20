@@ -5,11 +5,7 @@ class docsController extends Controller {
   }
 
   public function index(){
-    $data = array();
 
-    $data['user'] = Users::getLoggedUser($_SESSION['id']);
-
-
-    $this->loadTemplate('docs/docs',$data);
+    $this->loadTemplate('docs/docs',self::getData());
   }
 }

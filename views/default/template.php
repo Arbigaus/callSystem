@@ -353,7 +353,7 @@
 				<li class="treeview">
           <a href="#">
             <i class="fa fa-laptop"></i>
-            <span>Departamento TI</span>
+            <span> Departamento TI</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
@@ -368,74 +368,25 @@
 
 				<li class="header">MENU PRINCIPAL</li>
 
+				<?php foreach ($viewData['menu'] as $menu): ?>
+
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-laptop"></i>
-            <span>Atendimento TI</span>
+            <i class="fa <?php echo $menu['nav_icon']; ?>"></i>
+            <span><?php echo $menu['nav_name']; ?></span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o"></i> Contato</a></li>
+            <li><a href="<?php echo BASE; ?>/call/new/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
+            <li><a href="<?php echo BASE; ?>/call/index/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
+            <li><a href="<?php echo BASE; ?>/call/end/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
+            <li><a href="<?php echo BASE; ?>/call/forms/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
+            <li><a href="<?php echo BASE; ?>/call/contact/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o"></i> Contato</a></li>
           </ul>
         </li>
-
-				<li class="treeview">
-          <a href="#">
-            <i class="fa fa-line-chart"></i>
-            <span>Atendimento Financeiro</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o"></i> Contato</a></li>
-          </ul>
-        </li>
-
-				<li class="treeview">
-          <a href="#">
-            <i class="fa fa-bar-chart-o"></i>
-            <span>Atendimento Contabilidade</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o"></i> Contato</a></li>
-          </ul>
-        </li>
-
-				<li class="treeview">
-          <a href="#">
-            <i class="fa fa-users"></i>
-            <span>Atendimento GDP</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu">
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
-            <li><a href="<?php echo BASE; ?>/call"><i class="fa fa-circle-o"></i> Contato</a></li>
-          </ul>
-        </li>
-
+				<?php endforeach; ?>
 
         <li><a href="<?php echo BASE; ?>/cell"><i class="fa fa-mobile"></i> <span>Rateio Claro</span></a></li>
         <li><a href="<?php echo BASE; ?>/cell/csv"><i class="fa fa-mobile"></i> <span>Enviar CSV-Claro</span></a></li>
@@ -695,6 +646,8 @@
 <!-- DataTables -->
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+<!-- CK Editor -->
+<script src="<?php echo BASE; ?>/assets/bower_components/ckeditor/ckeditor.js"></script>
 <!-- AdminLTE App -->
 <script src="<?php echo BASE; ?>/assets/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
