@@ -42,12 +42,7 @@
 	              <textarea id="editor1" name="call_subject" rows="10" cols="80"></textarea>
 	            </div>
 						</div>
-						<div class="form-group">
-				      <label for="callfile">Selecione o arquivo</label>
-				      <input type="file" name="file" id="callfile">
 
-				      <p class="help-block">Se necessário, favor anexar documento em PDF ou JPG.</p>
-				    </div>
 						<div class=" col-xs-4">
 							<button class="btn btn-success">
 								<i class="i-send fa "></i> Enviar <i class="fa"></i>
@@ -60,8 +55,8 @@
 		</div>
 		</div>
 	</div>
-
-
-
 </section>
+<script type="text/javascript">
+  var UPLOAD = '<?php echo BASE; ?>/call/new/<?php echo $area['id']; ?>'; // TODO: Enviando a variável UPLOAD para o script js.
+</script>
 <!-- /.content -->

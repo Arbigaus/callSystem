@@ -9,7 +9,7 @@ class callController extends Controller {
     $area = Area::getResult();
     self::setData($area[0],'area');
 
-    $this->loadTemplate('call/callHome',self::getData());
+    $this->loadTemplate('call/callhome',self::getData());
   }
 
   public function new($id){

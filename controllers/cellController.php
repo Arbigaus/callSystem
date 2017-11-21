@@ -5,6 +5,13 @@ class cellController extends Controller{
   }
 
   public function index(){
+    Cell::ReadAll();
+    $cell = Cell::getResult();
+
+    self::setData($cell,'cell');
+
+    $file = "assets/files/claro.csv";
+    Fatura::UpdateFatura($file);
 
     $this->loadTemplate('admin/cell', self::getData());
   }

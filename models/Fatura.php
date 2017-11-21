@@ -13,14 +13,14 @@ class Fatura extends Model{
       fclose($handle);
   }
 
-  public function CountRows($file){
+  public static function CountRows($file){
     $return = count(file($file, FILE_SKIP_EMPTY_LINES));
 
     return $return;
   }
 
   // TODO: Enviando os dados do CSV ao BD step by step.
-  public function UpdateFatura($file){
+  public static function UpdateFatura($file){
     $buffer = self::GetCsv($file);
     $rows = self::CountRows($file);
     $reg = 1000;
@@ -31,7 +31,7 @@ class Fatura extends Model{
       $data1[$i] = $dado;
       $i++;
     }
-
+  // TODO: Inserindo cada coluna da tabela
     for ($i=1; $i <= $step; $i++) {
       $sql = "INSERT INTO ". self::$Table." (`col_number`,`col_section`,`col_date`,`col_hour`,`col_source`,`col_number_dest`,`col_time`,`col_price`,`col_price2`,`col_info`,`col_info2`,`col_info3`,`col_sub_section`,`col_type_tax`,`col_description`,`col_position`,`col_name_source`,`col_name_target`,`col_code_source`,`col_code_target`) VALUES";
       $start = ((($reg*$i)-$reg) === 0)?0:($reg*$i)-$reg+1;

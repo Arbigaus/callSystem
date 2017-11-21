@@ -1,8 +1,3 @@
-<?php
-// foreach ($cell as $user) {
-//   echo $user['user_cell']."<br>";
-// }
- ?>
  <section class="content-header">
  	<h1>
  		Administração
