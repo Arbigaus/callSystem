@@ -646,8 +646,10 @@
 <!-- DataTables -->
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
-<!-- CK Editor -->
+<!-- CKEditor  -->
 <script src="<?php echo BASE; ?>/assets/bower_components/ckeditor/ckeditor.js"></script>
+<!-- Dropzone -->
+<script src="<?php echo BASE; ?>/assets/bower_components/dropzone/dropzone.js"></script>
 <!-- AdminLTE App -->
 <script src="<?php echo BASE; ?>/assets/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->

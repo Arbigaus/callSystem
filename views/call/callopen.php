@@ -42,6 +42,13 @@
 	              <textarea id="editor1" name="call_subject" rows="10" cols="80"></textarea>
 	            </div>
 						</div>
+						<div class="row">
+							<div class="form-group col-xs-12 dropzone">
+								<div class="dz-default dz-message" data-dz-message="">
+                                      <span>Drop files here to upload</span>
+                                 </div>
+							</div>
+						</div>
 
 						<div class=" col-xs-4">
 							<button class="btn btn-success">
