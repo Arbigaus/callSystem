@@ -57,7 +57,5 @@
 	</div>
 </div>
 </section>
-<script type="text/javascript">
-  var UPLOAD = '<?php echo BASE; ?>/call/new/<?php echo $area['id']; ?>'; // TODO: Enviando a variável UPLOAD para o script js.
-</script>
+
 <!-- /.content -->

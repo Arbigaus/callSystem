@@ -12,15 +12,15 @@
 						<!-- The fileinput-button span is used to style the file input field as button -->
 						<span class="btn btn-success fileinput-button dz-clickable">
 							<i class="glyphicon glyphicon-plus"></i>
-							<span>Add files...</span>
+							<span>Add arquivos</span>
 						</span>
 						<button type="button" class="btn btn-primary start">
 							<i class="glyphicon glyphicon-upload"></i>
-							<span>Start upload</span>
+							<span>Enviar Arquivos</span>
 						</button>
 						<button type="reset" class="btn btn-warning cancel">
 							<i class="glyphicon glyphicon-ban-circle"></i>
-							<span>Cancel upload</span>
+							<span>Cancelar upload</span>
 						</button>
 					</div>
 
@@ -52,15 +52,15 @@
 						<div>
 							<button class="btn btn-primary start" type="button">
 								<i class="glyphicon glyphicon-upload"></i>
-								<span>Start</span>
+								<span>Enviar</span>
 							</button>
 							<button data-dz-remove class="btn btn-warning cancel" type="button">
 								<i class="glyphicon glyphicon-ban-circle"></i>
-								<span>Cancel</span>
+								<span>Cancelar</span>
 							</button>
 							<button data-dz-remove class="btn btn-danger delete" type="button">
 								<i class="glyphicon glyphicon-trash"></i>
-								<span>Delete</span>
+								<span>Deletar</span>
 							</button>
 						</div>
 					</div>

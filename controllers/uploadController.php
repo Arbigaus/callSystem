@@ -6,9 +6,11 @@ class uploadController extends Controller {
 
 	public function send(){
 		if(isset($_FILES["file"]) && !empty($_FILES["file"]['tmp_name'])){
+			$_SESSION['img_id'] = "";
 			$url = Upload::UploadFile($_FILES);
 			Upload::setUrl($url);
-			echo Upload::getUrl();
+			$_SESSION['img_id'] .= Upload::getUrl();
+
 		}
 	}
 

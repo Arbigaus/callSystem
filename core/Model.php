@@ -183,31 +183,4 @@ abstract class Model {
 		}
 	}
 
-//TODO: Função para enviar arquivos.
-	public static function UploadFile($file, $permited = ""){
-		if(isset($file) && !empty($permited)) {
-
-			if(in_array($file['arquivo']['type'], $permited)){
-				$ext=explode('.',$_FILES['arquivo']['name']);
-				array_shift($ext);
-
-				$url = md5(time().rand(0,999)).".".$ext[0];
-
-				move_uploaded_file($_FILES['arquivo']['tmp_name'], 'assets/files/'.$url);
-
-				return true;
-			} else {
-				return false;
-			}
-		}elseif (isset($file)) {
-			$ext=explode('.',$_FILES['file']['name']);
-			array_shift($ext);
-
-			$url = md5(time().rand(0,999)).".".$ext[0];
-
-			move_uploaded_file($_FILES['file']['tmp_name'], 'assets/files/'.$url);
-
-			return $url;
-		}
-	}
 }
