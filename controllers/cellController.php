@@ -10,8 +10,8 @@ class cellController extends Controller{
 
     self::setData($cell,'cell');
 
-    $file = "assets/files/claro.csv";
-    Fatura::UpdateFatura($file);
+    //$file = "assets/files/claro.csv";
+    //Fatura::UpdateFatura($file);
 
     $this->loadTemplate('admin/cell', self::getData());
   }
@@ -25,7 +25,7 @@ class cellController extends Controller{
     $data  = array();
     if(isset($_FILES['arquivo']) && !empty($_FILES['arquivo']['tmp_name'])):
       $permited = ["text/csv","text/plain"];
-      if(Cell::sendFile($_FILES,$permited)):
+      if(Cell::UploadFile($_FILES,$permited)):
         $data['return'] = $this->ajaxSuccess("Arquivo enviado");
       else:
         $data['return'] = $this->ajaxWarning("Houve erro");
