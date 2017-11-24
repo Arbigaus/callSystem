@@ -382,7 +382,7 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="<?php echo BASE; ?>/call/new/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
+            <li><a href="<?php echo BASE; ?>/call/open/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-aqua"></i> Solicitar Atendimento</a></li>
             <li><a href="<?php echo BASE; ?>/call/index/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-red"></i> Atendimentos Pendentes</a></li>
             <li><a href="<?php echo BASE; ?>/call/end/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-green"></i> Atendimentos Finalizados</a></li>
             <li><a href="<?php echo BASE; ?>/call/forms/<?php echo $menu['area_id']; ?>"><i class="fa fa-circle-o text-yellow"></i> Formulários</a></li>
@@ -649,8 +649,6 @@
 <!-- DataTables -->
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
 <script src="<?php echo BASE; ?>/assets/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
-<!-- CKEditor  -->
-<script src="<?php echo BASE; ?>/assets/bower_components/ckeditor/ckeditor.js"></script>
 <!-- Dropzone -->
 <script src="<?php echo BASE; ?>/assets/bower_components/dropzone/dropzone.js"></script>
 <!-- AdminLTE App -->

@@ -2,6 +2,16 @@
   margin: 2em 0;
 }
 
+/* Text Area style */
+.textarea {
+  width: 100%;
+  height: 200px;
+  font-size: 14px;
+  line-height: 18px;
+  border: 1px solid rgb(221, 221, 221);
+  padding: 10px;
+}
+
 
 /* Mimic table appearance */
 div.table {

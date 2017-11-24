@@ -6,9 +6,8 @@ $(function () {
   $('.datepicker').datepicker({
       autoclose: true
   });  
-  // CKEDITOR starter
-  CKEDITOR.replace('editor1');
-  // Dropzone starter
+
+  // $('.textarea').wysihtml5();
 
 });
 // Get the template HTML and remove it from the doumenthe template HTML and remove it from the doument

@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 20, 2017 at 07:42 PM
+-- Generation Time: Nov 24, 2017 at 08:22 PM
 -- Server version: 10.1.10-MariaDB
 -- PHP Version: 7.0.4
 
@@ -53,9 +53,20 @@ CREATE TABLE `tab_call` (
   `id` int(11) NOT NULL,
   `call_title` varchar(255) NOT NULL,
   `call_subject` text NOT NULL,
+  `call_type` varchar(50) NOT NULL,
   `call_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `tab_call_rel_id` int(11) NOT NULL
+  `call_imgs` varchar(100) DEFAULT NULL,
+  `call_area` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=big5;
+
+--
+-- Dumping data for table `tab_call`
+--
+
+INSERT INTO `tab_call` (`id`, `call_title`, `call_subject`, `call_type`, `call_date`, `call_imgs`, `call_area`) VALUES
+(1, 'Teste de ?rea', '<p>Testando o envio da ?rea.</p>', 'Computador', '2017-11-24 17:10:02', NULL, 1),
+(2, 'Teste de ?rea', '<p>Teste de ?rea - <b>GDP</b></p>', 'Computador', '2017-11-24 17:10:29', NULL, 4),
+(3, 'Teste de select', '<p>informando o value do select.</p><p>?rea Contabilidade.</p>', '3', '2017-11-24 17:11:47', NULL, 3);
 
 -- --------------------------------------------------------
 
@@ -691,6 +702,19 @@ INSERT INTO `tab_navbar_submenu` (`id`, `sub_name`, `sub_icon`, `sub_url`) VALUE
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `tab_upload`
+--
+
+CREATE TABLE `tab_upload` (
+  `id` int(11) NOT NULL,
+  `file_name` varchar(36) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `up_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `tab_users`
 --
 
@@ -714,7 +738,8 @@ CREATE TABLE `tab_users` (
 INSERT INTO `tab_users` (`id`, `user_name`, `user_email`, `user_passwd`, `user_phone`, `user_ocup`, `user_status`, `user_level`, `user_profilepic`, `user_date`) VALUES
 (1, 'Gerson Arbigaus', 'gerson87@gmail.com', '202cb962ac59075b964b07152d234b70', NULL, 'Analista de TI', NULL, NULL, 'profile2.jpg', '2017-11-06 23:02:11'),
 (2, 'Rafael Caçator', 'rafael.cacator@cotrasa.com.br', '202cb962ac59075b964b07152d234b70', NULL, 'Assistente de TI', NULL, NULL, 'avatar5.png', '2017-11-07 17:10:08'),
-(4, 'Rafael Moresco', 'rafael.moresco@cotrasa.com.br', '81dc9bdb52d04dc20036dbd8313ed055', NULL, NULL, NULL, NULL, 'avatar5.png', '2017-11-09 16:13:23');
+(4, 'Rafael Moresco', 'rafael.moresco@cotrasa.com.br', '81dc9bdb52d04dc20036dbd8313ed055', NULL, NULL, NULL, NULL, 'avatar5.png', '2017-11-09 16:13:23'),
+(5, 'Adriele Arbigaus', 'adrielexcristina@gmail.com', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, 'avatar5.png', '2017-11-24 16:23:32');
 
 --
 -- Indexes for dumped tables
@@ -730,8 +755,7 @@ ALTER TABLE `tab_area`
 -- Indexes for table `tab_call`
 --
 ALTER TABLE `tab_call`
-  ADD PRIMARY KEY (`id`,`tab_call_rel_id`),
-  ADD KEY `fk_tab_call_tab_call_rel1_idx` (`tab_call_rel_id`);
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `tab_call_rel`
@@ -785,6 +809,12 @@ ALTER TABLE `tab_navbar_submenu`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `tab_upload`
+--
+ALTER TABLE `tab_upload`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `tab_users`
 --
 ALTER TABLE `tab_users`
@@ -804,7 +834,7 @@ ALTER TABLE `tab_area`
 -- AUTO_INCREMENT for table `tab_call`
 --
 ALTER TABLE `tab_call`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 --
 -- AUTO_INCREMENT for table `tab_call_rel`
 --
@@ -846,19 +876,18 @@ ALTER TABLE `tab_navbar`
 ALTER TABLE `tab_navbar_submenu`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
+-- AUTO_INCREMENT for table `tab_upload`
+--
+ALTER TABLE `tab_upload`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
 -- AUTO_INCREMENT for table `tab_users`
 --
 ALTER TABLE `tab_users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- Constraints for dumped tables
 --
-
---
--- Constraints for table `tab_call`
---
-ALTER TABLE `tab_call`
-  ADD CONSTRAINT `fk_tab_call_tab_call_rel1` FOREIGN KEY (`tab_call_rel_id`) REFERENCES `tab_call_rel` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 --
 -- Constraints for table `tab_call_rel`

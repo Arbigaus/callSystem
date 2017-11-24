@@ -58,9 +58,9 @@
 								<i class="glyphicon glyphicon-ban-circle"></i>
 								<span>Cancelar</span>
 							</button>
-							<button data-dz-remove class="btn btn-danger delete" type="button">
+							<!-- <button data-dz-remove class="btn btn-danger delete" type="button">
 								<i class="glyphicon glyphicon-trash"></i>
-								<span>Deletar</span>
+								<span>Deletar</span> -->
 							</button>
 						</div>
 					</div>
