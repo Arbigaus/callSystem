@@ -7,7 +7,10 @@ class callController extends Controller {
   public function index($id){
     Area::ReadByField('id',$id);
     $area = Area::getResult();
+    $call = Call::getCall($_SESSION['id'], $id);
+
     self::setData($area[0],'area');
+    self::setData($call,'call');
 
     $this->loadTemplate('call/callhome',self::getData());
   }

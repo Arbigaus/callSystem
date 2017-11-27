@@ -6,10 +6,12 @@ $(function () {
   $('.datepicker').datepicker({
       autoclose: true
   });  
+  $('.collapse').collapse();
 
   // $('.textarea').wysihtml5();
 
 });
+
 // Get the template HTML and remove it from the doumenthe template HTML and remove it from the doument
 var previewNode = document.querySelector("#dropzone");
 previewNode.id = "";

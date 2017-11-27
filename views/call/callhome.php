@@ -13,6 +13,40 @@
 
 <!-- Main content -->
 <section class="content">
-	<h4>Atendimentos em Andamento - <b><?php echo $area['area_name']; ?></b></h4>
+
+<?php if(isset($call) && !empty($call)): ?>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="box box-solid">
+				<div class="box-header with-border">
+					<h3 class="box-title">Aguardando retorno</h3>
+				</div>
+				<!-- /.box-header -->
+				<div class="box-body">
+					<div class="box-group" id="accordion">
+						<!-- we are adding the .panel class so bootstrap.js collapse plugin detects it -->
+						<?php foreach($call as $opened): ?>
+							<div class="panel box box-warning">
+								<div class="box-header with-border">
+									<h4 class="box-title">
+										<a data-toggle="collapse" data-parent="#accordion" href="#collapse<?php echo $opened['id']; ?>">
+											<strong><?php echo $opened['id']; ?></strong> - <?php echo $opened['call_title']; ?>
+										</a>
+									</h4>
+								</div>
+								<div id="collapse<?php echo $opened['id']; ?>" class="panel-collapse collapse">
+									<div class="box-body">
+										<p><?php echo $opened['call_subject']; ?></p>
+									</div>
+								</div>
+							</div>
+						<?php endforeach; ?>
+					</div>
+				</div>
+				<!-- /.box-body -->
+			</div>
+<?php endif; ?>
+
+
 </section>
 <!-- /.content -->

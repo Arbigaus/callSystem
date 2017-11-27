@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 24, 2017 at 08:22 PM
+-- Generation Time: Nov 27, 2017 at 08:33 PM
 -- Server version: 10.1.10-MariaDB
 -- PHP Version: 7.0.4
 
@@ -53,7 +53,8 @@ CREATE TABLE `tab_call` (
   `id` int(11) NOT NULL,
   `call_title` varchar(255) NOT NULL,
   `call_subject` text NOT NULL,
-  `call_type` varchar(50) NOT NULL,
+  `call_type` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
   `call_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `call_imgs` varchar(100) DEFAULT NULL,
   `call_area` int(11) NOT NULL
@@ -63,10 +64,13 @@ CREATE TABLE `tab_call` (
 -- Dumping data for table `tab_call`
 --
 
-INSERT INTO `tab_call` (`id`, `call_title`, `call_subject`, `call_type`, `call_date`, `call_imgs`, `call_area`) VALUES
-(1, 'Teste de ?rea', '<p>Testando o envio da ?rea.</p>', 'Computador', '2017-11-24 17:10:02', NULL, 1),
-(2, 'Teste de ?rea', '<p>Teste de ?rea - <b>GDP</b></p>', 'Computador', '2017-11-24 17:10:29', NULL, 4),
-(3, 'Teste de select', '<p>informando o value do select.</p><p>?rea Contabilidade.</p>', '3', '2017-11-24 17:11:47', NULL, 3);
+INSERT INTO `tab_call` (`id`, `call_title`, `call_subject`, `call_type`, `user_id`, `call_date`, `call_imgs`, `call_area`) VALUES
+(1, 'Teste de chamado', '<p>Abrir chamado.</p>', 2, 1, '2017-11-27 15:59:38', '1,2', 1),
+(2, 'Teste sem imagem', '<p>\n\nAnim pariatur cliche reprehenderit, enim eiusmod <u>high life accusamus terry richardson a</u>d squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labor<b>e wes anderson cred nesciunt sapiente ea proiden</b>t. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, <i>raw denim aesthetic synth nesciunt y</i>ou probably haven\\''t heard of them accusamus labore sustainable VHS.\n\n<br></p>', 1, 1, '2017-11-27 16:20:45', NULL, 1),
+(3, 'Teste com imagem', '<p>Anexando imagem.</p>', 3, 1, '2017-11-27 16:21:19', '3,4', 1),
+(4, 'Atendimento Financeiro', '<p>Atendimento do Financeiro.</p>', 2, 1, '2017-11-27 16:27:42', NULL, 2),
+(5, 'Atendimento GDP', '<p><b>Atendimento do GDP</b><br></p>', 1, 1, '2017-11-27 16:48:41', NULL, 4),
+(6, 'Atendimento Contabilidade.', '<p>\n\nAnim pariatur cliche reprehenderit, enim eiusmod <u>high life accusamus terry richardson a</u>d squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labor<b>e wes anderson cred nesciunt sapiente ea proiden</b>t. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, <i>raw denim aesthetic synth nesciunt y</i>ou probably haven\\''t heard of them accusamus labore sustainable VHS.\n\n<br></p>', 2, 1, '2017-11-27 17:28:14', NULL, 3);
 
 -- --------------------------------------------------------
 
@@ -712,6 +716,17 @@ CREATE TABLE `tab_upload` (
   `up_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Dumping data for table `tab_upload`
+--
+
+INSERT INTO `tab_upload` (`id`, `file_name`, `user_id`, `up_date`) VALUES
+(1, 'bb486d9c9b0e6dd7199778c7eb8e9db1.JPG', 1, '2017-11-27 15:30:17'),
+(2, 'afac3a30e58cdf0404196148f6dcfe84.JPG', 1, '2017-11-27 15:30:27'),
+(3, '912843dbc23d2c76d9bb435af13c7db5.jpg', 1, '2017-11-27 16:21:17'),
+(4, '47f7a36b31bf3ec66d2f49f27e383171.png', 1, '2017-11-27 16:21:17'),
+(5, 'b3eced2bb1dea5788dc433cfc06268c9.jpg', 1, '2017-11-27 17:31:38');
+
 -- --------------------------------------------------------
 
 --
@@ -834,7 +849,7 @@ ALTER TABLE `tab_area`
 -- AUTO_INCREMENT for table `tab_call`
 --
 ALTER TABLE `tab_call`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 --
 -- AUTO_INCREMENT for table `tab_call_rel`
 --
@@ -879,7 +894,7 @@ ALTER TABLE `tab_navbar_submenu`
 -- AUTO_INCREMENT for table `tab_upload`
 --
 ALTER TABLE `tab_upload`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `tab_users`
 --

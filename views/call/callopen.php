@@ -44,6 +44,7 @@
 							</div>
 						</div>
 						<input type="hidden" name="call_area" value="<?php echo $area['id']; ?>" />
+						<input type="hidden" name="user_id" value="<?php echo $_SESSION['id']; ?>" />
 
 						<?php include 'views/default/dropfile.php'; ?>
 

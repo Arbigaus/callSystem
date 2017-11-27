@@ -14,8 +14,6 @@ class uploadController extends Controller {
 				$_SESSION['img_id'] = Upload::getUrl();
 			}
 
-
-			print_r($_SESSION);
 		}
 	}
 
