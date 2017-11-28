@@ -5,10 +5,7 @@ $(function () {
   $('.datatable').DataTable();
   $('.datepicker').datepicker({
       autoclose: true
-  });  
-  $('.collapse').collapse();
-
-  // $('.textarea').wysihtml5();
+  });
 
 });
 

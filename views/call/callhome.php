@@ -14,39 +14,42 @@
 <!-- Main content -->
 <section class="content">
 
-<?php if(isset($call) && !empty($call)): ?>
-	<div class="row">
-		<div class="col-md-12">
-			<div class="box box-solid">
-				<div class="box-header with-border">
-					<h3 class="box-title">Aguardando retorno</h3>
-				</div>
-				<!-- /.box-header -->
-				<div class="box-body">
-					<div class="box-group" id="accordion">
-						<!-- we are adding the .panel class so bootstrap.js collapse plugin detects it -->
-						<?php foreach($call as $opened): ?>
-							<div class="panel box box-warning">
-								<div class="box-header with-border">
-									<h4 class="box-title">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapse<?php echo $opened['id']; ?>">
-											<strong><?php echo $opened['id']; ?></strong> - <?php echo $opened['call_title']; ?>
-										</a>
-									</h4>
-								</div>
-								<div id="collapse<?php echo $opened['id']; ?>" class="panel-collapse collapse">
-									<div class="box-body">
-										<p><?php echo $opened['call_subject']; ?></p>
+	<?php if(isset($call) && !empty($call)): ?>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="box box-solid">
+					<div class="box-header with-border">
+						<h3 class="box-title">Aguardando retorno</h3>
+					</div>
+					<!-- /.box-header -->
+					<div class="box-body">
+						<div class="box-group" id="accordion">
+							<!-- we are adding the .panel class so bootstrap.js collapse plugin detects it -->
+							<?php foreach($call as $opened): ?>
+								<div class="panel box box-warning">
+									<a class=" text-muted" data-toggle="collapse" data-parent="#accordion" href="#collapse<?php echo $opened['id']; ?>">
+										<div class="box-header with-border">
+											<h4 class="box-title">
+												<strong><?php echo $opened['id']; ?></strong> - <?php echo $opened['call_title']; ?>
+											</h4>
+											<div class="pull-right">
+												<span><small><?php echo date('d/m/Y - H:i', strtotime($opened['call_date'])); ?></small></span>
+											</div>
+										</div>
+									</a>
+									<div id="collapse<?php echo $opened['id']; ?>" class="panel-collapse collapse">
+										<div class="box-body">
+											<p><?php echo $opened['call_subject']; var_dump($opened['call_date']); ?></p>
+										</div>
 									</div>
 								</div>
-							</div>
-						<?php endforeach; ?>
+							<?php endforeach; ?>
+						</div>
 					</div>
+					<!-- /.box-body -->
 				</div>
-				<!-- /.box-body -->
-			</div>
-<?php endif; ?>
+			<?php endif; ?>
 
 
-</section>
-<!-- /.content -->
+		</section>
+		<!-- /.content -->
