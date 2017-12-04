@@ -1,4 +1,3 @@
-Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
 41 98858-2799;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;12,98;12,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
 42 98868-8749;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;12,98;12,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
 41 98808-7590;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;9,09;9,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;

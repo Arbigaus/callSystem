@@ -1,0 +1,43 @@
+41 98884-8286;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;Curitiba - Interface IV;234-8;Geral;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98858-2799;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98725-4218;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98812-9771;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+45 98811-2361;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;40,24;40,24;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98865-1124;Total Share - Assinatura Smartphone : 02/10/2017 a 01/11/2017;02/10/2017;;;;;0,00;9,09;9,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+;Parcelamento de Aparelho : 07/08/2016 a 07/08/2016;07/08/2016;;;;;0,00;1391,44;1391,44;;;;Outros;;;;;;;
+41 98708-0834;Internet (MB);01/10/2017;13:26:06;;;16,260742;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Internet (MB);01/10/2017;13:26:07;;;4,624023;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Internet (MB);01/10/2017;13:26:43;;;,18164;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Claro-Outras Op.;01/10/2017;14:02:37;Paraná - Paraná (41);41995699840;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98708-0834;Internet (MB);02/10/2017;00:04:30;;;,720703;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Internet (MB);02/10/2017;20:41:46;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Internet (MB);02/10/2017;20:41:46;;;,08789;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Internet (MB);03/10/2017;00:01:23;;;,067382;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98708-0834;Claro-Fixo;04/10/2017;18:01:04;Paraná - Curitiba;4139075359;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00842
+41 98708-0834;Claro-Fixo;04/10/2017;18:12:24;Paraná - Curitiba;4139075359;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00842
+41 98708-0834;Claro-Fixo;04/10/2017;18:16:25;Paraná - Sao Jose Dos Pinhais;4133820202;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;041
+41 98708-0834;Claro-Fixo;04/10/2017;18:17:55;Paraná - Sao Jose Dos Pinhais;4132820202;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98708-0834;Internet (MB);04/10/2017;18:34:44;;;17,541992;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);19/10/2017;14:04:11;;;,052734;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);19/10/2017;14:04:11;;;,05957;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);19/10/2017;14:04:34;;;,009765;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Torpedos;19/10/2017;15:34:16;;35992082508;1;0,10;,1;,1;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00041;07600
+41 98808-7590;Claro-Claro;19/10/2017;18:07:57;Paraná - Paraná (41);41999970405;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98808-7590;Claro-Fixo;19/10/2017;18:59:19;Paraná - Curitiba;4132667272;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;041
+41 98808-7590;Claro-Claro;19/10/2017;20:06:00;Paraná - Paraná (41);41999970405;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98808-7590;Claro-Claro;19/10/2017;20:08:49;Paraná - Parana (41);41987841081;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Parana (41);00041;00041
+41 98808-7590;Internet (MB);20/10/2017;00:48:44;;;2,924804;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);20/10/2017;07:28:23;;;1,290039;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);20/10/2017;07:28:23;;;,055664;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);20/10/2017;15:37:13;;;,05957;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98808-7590;Internet (MB);20/10/2017;15:37:15;;;,092773;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98858-2799;Internet (MB);26/10/2017;05:58:36;;;,200195;0,03;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98858-2799;Claro-Outras Op.;26/10/2017;09:43:32;Paraná - Paraná (41);41996567082;00:03:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98858-2799;Claro-Fixo;26/10/2017;09:52:15;Paraná - Sao Jose Dos Pinhais;4132997202;00:09:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;041
+41 98858-2799;Claro-Fixo;26/10/2017;10:06:53;Paraná - Contenda;4136342011;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Contenda;00041;041
+41 98858-2799;Claro-Outras Op.;26/10/2017;10:42:41;Paraná - Paraná (41);41999724006;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+41 98858-2799;Claro-Outras Op.;26/10/2017;10:57:20;Paraná - Paraná (41);41999513369;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98858-2799;Claro-Claro;26/10/2017;10:58:00;Paraná - Paraná (41);41988678300;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98858-2799;Claro-Claro;26/10/2017;17:25:01;Paraná - Paraná (41);41988678300;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98858-2799;Claro-Fixo;26/10/2017;19:35:04;Paraná - Curitiba;4130886637;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98858-2799;Claro-Outras Op.;26/10/2017;19:54:21;Paraná - Paraná (41);41999590120;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000

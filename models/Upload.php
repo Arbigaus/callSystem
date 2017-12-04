@@ -15,6 +15,7 @@ class Upload extends Model {
 
 				$url = md5(time().rand(0,999)).".".$ext[0];
 				$data['file_name'] = $url;
+				self::setUrl($url);
 
 				move_uploaded_file($_FILES['arquivo']['tmp_name'], 'assets/files/'.$url);
 

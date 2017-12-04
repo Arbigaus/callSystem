@@ -40,7 +40,7 @@ class Fatura extends Model{
       for ($e=$start; $e < $end; $e++):
         $e = ($e === 0)?1:$e;
         $data[$e] = $data1[$e];
-        $sql .= " ('{$data[$e][0]}','{$data[$e][1]}','{$data[$e][2]}','{$data[$e][3]}','{$data[$e][4]}','{$data[$e][5]}','{$data[$e][6]}','{$data[$e][7]}','{$data[$e][8]}','{$data[$e][9]}','{$data[$e][10]}','{$data[$e][11]}','{$data[$e][12]}','{$data[$e][13]}','{$data[$e][14]}','{$data[$e][15]}','{$data[$e][16]}','{$data[$e][17]}','{$data[$e][18]}','{$data[$e][19]}'),";
+        $sql .= " ('{$data[$e][0]}','{$data[$e][1]}','".date('Y-m-d', strtotime(str_replace('/','-',$data[$e][2])))."','{$data[$e][3]}','{$data[$e][4]}','{$data[$e][5]}','{$data[$e][6]}','".str_replace(",",".",$data[$e][7])."','".str_replace(",",".",$data[$e][8])."','".str_replace(",",".",$data[$e][9])."','{$data[$e][10]}','{$data[$e][11]}','{$data[$e][12]}','{$data[$e][13]}','{$data[$e][14]}','{$data[$e][15]}','{$data[$e][16]}','{$data[$e][17]}','{$data[$e][18]}','{$data[$e][19]}'),";
       endfor;
       $sql = substr($sql, 0, -1);
       self::FullCreate($sql);
